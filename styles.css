@@ -1,0 +1,123 @@
+h1{
+    
+    background-color: green;
+    color: white;
+    font-size:100px;
+}
+
+
+
+
+.padre{
+    border: 14px solid black;
+    
+    position: relative;
+    width: 650px;
+    height: 650px;
+    padding: 50px;
+    margin-left: 800px;
+}
+
+
+.container{
+    color: yellow;
+
+}
+
+
+.container1{
+    padding-top: 0px;
+    margin-left: 180px;
+    margin-top: -80px;
+    height: 458px;
+    width: 330px;
+    background-color: red;
+    border: 12px solid black;
+    padding: 90px;
+    padding-top: 50px;
+    padding-left: 90px;
+    position:absolute;       
+}
+
+.container2{
+    
+    margin-right: -60px;
+    margin-top: 530px;
+    padding: 50px;
+    border:  12px solid;
+    border-color: black;
+    background-color: white;
+    margin-left: 535px;
+    width: 50px;
+    height: 41px;
+    
+    
+}
+
+.container3{
+    margin-right: -160px;
+    margin-top: -164px;
+    padding: 50px;
+    
+    border:  12px solid;
+    
+    border-right: 0px;
+    background-color: white;
+    margin-left: 180px;
+    width: 30px;
+    height: 38px;    
+
+
+}
+
+.container4{
+    color: white;
+    background-color: blue;
+    border: 12px solid black;
+    margin-top: -163px;
+    margin-left: -65px;
+    height: 140px;
+      
+    padding-left: 78px;
+    width: 156px;
+
+}
+
+.container5{
+    background-color: white;
+    border-top: 12px solid black;
+    
+    margin-top:-377px;
+    margin-left: -51px;
+    margin-right: 510px;
+    height: 190px;
+    width: 232px;
+    
+    
+}
+
+.container6{
+    background-color: yellow;
+    
+    margin-top: 250;
+    height: 337px;
+    width: 232px;
+    margin: -51px;
+    padding-top: 50px;
+    margin-top: -589px;
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
